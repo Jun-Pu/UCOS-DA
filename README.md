@@ -1,2 +1,2 @@
-# SFUDA-COD
-Source-free unsupervised domain adaptation for camouflaged object segmentation
+# Source-Free Unsupervised Domain Adaptation for Camouflaged Object Segmentation
+
