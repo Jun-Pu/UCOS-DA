@@ -1,2 +1,2 @@
-# Unsupervised Concealed Object Segmentation as Domain Adaptation
+# Unsupervised Camouflaged Object Segmentation as Domain Adaptation
 
