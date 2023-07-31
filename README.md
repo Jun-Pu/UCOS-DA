@@ -29,7 +29,7 @@ In this work, we investigate a new task, namely unsupervised camouflaged object 
     </em>
 </p>
 
-The whole UCOS benchmark results can bedownloaded at [Google Drive](https://drive.google.com/file/d/1d2nyRB9nLgkk9OhqWz9ftt2c266hl5ah/view?usp=sharing).
+The whole UCOS benchmark results can be downloaded at [Google Drive](https://drive.google.com/file/d/1d2nyRB9nLgkk9OhqWz9ftt2c266hl5ah/view?usp=sharing).
 
 Please refer the [eval](https://github.com/Jun-Pu/UCOS-DA/blob/main/eval/evaluators.py) for the evaluation code.
 
