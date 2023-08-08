@@ -1,5 +1,7 @@
 # Unsupervised Camouflaged Object Segmentation as Domain Adaptation
 
+Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), Chengyi Wu
+
 ---
 ## Introduction
 
