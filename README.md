@@ -1,4 +1,4 @@
-# Unsupervised Camouflaged Object Segmentation as Domain Adaptation (ICCV 2023 Workshop on [OODCV](http://www.ood-cv.org/))
+# [Unsupervised Camouflaged Object Segmentation as Domain Adaptation (ICCV 2023 Workshop on OOD-CV)](https://arxiv.org/abs/2308.04528)
 
 Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), *Chengyi Wu*
 
