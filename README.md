@@ -44,3 +44,13 @@ Please refer to [src](https://github.com/Jun-Pu/UCOS-DA/tree/main/src) for the c
 The results of our baseline model upon six benchmark datasets can be downloaded at [Google Drive](https://drive.google.com/file/d/1NzGFcithFHPF18k6NUt4valLVD7N3ueb/view?usp=sharing).
 
 The pre-trained model can be downloaded at [Google Drive](https://drive.google.com/file/d/1KubZTnGlNEUOyuZjrMpvii1uZnq_vW19/view?usp=sharing).
+
+---
+## Citation
+
+    @article{zhang2023unsupervised,
+         title={Unsupervised Camouflaged Object Segmentation as Domain Adaptation},
+         author={Zhang, Yi and Wu, Chengyi},
+         journal={arXiv preprint arXiv:2308.04528},
+         year={2023}
+    }
