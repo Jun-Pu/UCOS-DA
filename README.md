@@ -48,10 +48,11 @@ The pre-trained model can be downloaded at [Google Drive](https://drive.google.c
 ---
 ## Citation
 
-    @inproceedings{zhang2023unsupervised,
-      title={Unsupervised Camouflaged Object Segmentation as Domain Adaptation},
-      author={Zhang, Yi and Wu, Chengyi},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-      pages={4334--4344},
-      year={2023}
+    @InProceedings{Zhang_2023_ICCV,
+       author    = {Zhang, Yi and Wu, Chengyi},
+       title     = {Unsupervised Camouflaged Object Segmentation as Domain Adaptation},
+       booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+       month     = {October},
+       year      = {2023},
+       pages     = {4334-4344}
     }
